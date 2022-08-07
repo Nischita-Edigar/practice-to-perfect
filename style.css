@@ -1,0 +1,25 @@
+#section2{
+    background-color :#C0C0C0;
+    font-style:normal;
+    text-decoration-color: black;
+}
+.cbody{
+    background-color:#f0fff0;
+    font-style: italic;
+    
+
+}
+#section3{
+    background-color:#C0C0C0 ;
+}
+#section4{
+    background-color: #C0C0C0;
+
+}
+.round{
+    border-radius: 25px;
+    
+}
+#cardpad{
+    border-radius: 25px;
+}
